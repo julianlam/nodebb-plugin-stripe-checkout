@@ -1,0 +1,30 @@
+{
+  "name": "nodebb-plugin-stripe-checkout",
+  "version": "0.0.0",
+  "description": "",
+  "main": "library.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/julianlam/nodebb-plugin-stripe-checkout"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin"
+  ],
+  "author": {
+    "name": "Julian Lam",
+    "email": "julian@nodebb.org"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julianlam/nodebb-plugin-stripe-checkout/issues"
+  },
+  "readmeFilename": "README.md",
+  "nbbpm": {
+    "compatibility": "^1.4.2"
+  },
+  "dependencies": {
+    "async": "^2.1.4",
+    "stripe": "^4.14.0"
+  }
+}
