@@ -1,9 +1,11 @@
+# THIS PLUGIN IS NOT READY FOR PRODUCTION USE
+
 # Stripe Checkout Plugin for NodeBB
 
 This plugin allows a NodeBB forum to accept credit card purchases for products managed by the plugin, via
 [Stripe Checkout](https://stripe.com/checkout).
 
-Basic utilities to export purchase lists are also available.
+~~Basic utilities to export purchase lists are also available.~~
 
 ## Requirements
 
